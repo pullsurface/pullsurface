@@ -1,7 +1,7 @@
 # Fordyzx
 
 ```bash
-**h3ll:~#** echo cya > /proc/sysrq-trigger
+h3ll:~# echo cya > /proc/sysrq-trigger
 ```
 
 **About me :^)**
