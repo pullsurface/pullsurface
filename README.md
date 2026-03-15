@@ -5,6 +5,8 @@
 <b>h3ll:~#</b> echo cya > /proc/sysrq-trigger</pre>
 </p>
 
+---
+
 #### About me  :^)
 
 Hi there! I'm Fordy. A CyberSecurity Researcher and Red Team Operator focused on Linux and low-level systems.
