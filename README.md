@@ -14,7 +14,7 @@ I spend most of my time studying Linux internals, system architecture, and kerne
 I'm also interested in malware analysis, cyber threat intelligence, Blue Team practices, and occasionally exploit development through private research projects.
 
 <p align="center"> 
-   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1883818" style='border:none;'></iframe>">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/RedBlackout.png" alt="TryHackMe" />
 </p>
 
 #### Break. Learn. Secure.
