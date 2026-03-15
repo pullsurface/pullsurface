@@ -2,14 +2,7 @@
 
 echo cya > /proc/sysrq-trigger
 
-## About me
+# About me
 Cyber Security Researcher  
 Red Team / Blue Team  
 Linux / Kernel / Exploit Dev# Fordyzx
-
-echo cya > /proc/sysrq-trigger
-
-## About me
-Cyber Security Researcher  
-Red Team / Blue Team  
-Linux / Kernel / Exploit Dev
