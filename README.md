@@ -1,16 +1,15 @@
-## Hi there 👋
+# Fordyzx
 
-<!--
-**pullsurface/pullsurface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+echo cya > /proc/sysrq-trigger
 
-Here are some ideas to get you started:
+## About me
+Cyber Security Researcher  
+Red Team / Blue Team  
+Linux / Kernel / Exploit Dev# Fordyzx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+echo cya > /proc/sysrq-trigger
+
+## About me
+Cyber Security Researcher  
+Red Team / Blue Team  
+Linux / Kernel / Exploit Dev
